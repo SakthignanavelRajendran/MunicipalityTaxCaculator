@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MunicipalityTaxCaculator", "MunicipalityTaxCaculator\MunicipalityTaxCaculator.csproj", "{9B0B9306-7354-4247-AE8C-71E2B50EB3BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MunicipalityTaxCalculator.Tests", "MunicipalityTaxCalculator.Tests\MunicipalityTaxCalculator.Tests.csproj", "{3CB56105-98DB-4F21-8CC3-7B27E8ED9598}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B0B9306-7354-4247-AE8C-71E2B50EB3BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0B9306-7354-4247-AE8C-71E2B50EB3BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0B9306-7354-4247-AE8C-71E2B50EB3BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0B9306-7354-4247-AE8C-71E2B50EB3BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB56105-98DB-4F21-8CC3-7B27E8ED9598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB56105-98DB-4F21-8CC3-7B27E8ED9598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB56105-98DB-4F21-8CC3-7B27E8ED9598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB56105-98DB-4F21-8CC3-7B27E8ED9598}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54C99442-8E75-4F65-B72A-822222C3DD9B}
+	EndGlobalSection
+EndGlobal
